@@ -1,4 +1,4 @@
-# CNN Deep Learning Project Implementation
+# CNN Deep Learning Project 
 
 A compact, well-documented implementation of Convolutional Neural Networks (CNNs) for image classification tasks. This repository contains training, evaluation, and inference utilities, along with example experiments, configuration, and instructions to reproduce results on your own dataset or public datasets.
 
